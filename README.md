@@ -1,7 +1,7 @@
-<h2> Hello There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
+<h2> Olá!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
 
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayaraba/)
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramoncampos/)
 
 <img align="right" src="https://img.freepik.com/vetores-premium/conceito-plano-de-vetor-de-carreira-de-analista-de-dados-ilustracao-local_151150-13220.jpg?w=1380" width='200'/> 
 
