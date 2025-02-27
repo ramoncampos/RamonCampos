@@ -62,14 +62,7 @@ Minha aptidão para transformar dados brutos em informações acionáveis, combi
 - **B2W Digital** - professora de formação do curso de Data Analytics, lecionando as disciplinas de banco de dados, Etl, Python e PowerBi (atualmente).
 - **Accenture** - atuei como Head People, com foco em consultoria para clientes externos e para os clientes internos, responsável por toda a parte de gestão de pessoas (atuei por 10 anos).
  
-
-## 🚀 Status
-
-<img src="https://github-readme-stats.vercel.app/api?username=nayarawakewski&theme=dark&show_icons=true" alt="GitHub Stats" />
-
-
 ## 📚 Skills
-
 
 <div align="center">
 
