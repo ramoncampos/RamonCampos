@@ -5,7 +5,7 @@
 
 <img align="right" src="https://img.freepik.com/vetores-premium/conceito-plano-de-vetor-de-carreira-de-analista-de-dados-ilustracao-local_151150-13220.jpg?w=1380" width='200'/> 
 
-Sou **Ramon Campos**, atuo na área de Análise de Dados, com domínio nas linguagens SQL e Python.
+Sou **Ramon Campos**, atuo como Analista de Dados, com domínio nas linguagens SQL e Python, além de Power BI e ETL.
 Com um embasamento técnico, de negócios, e habilidades em ferramentas de análise de dados, meu compromisso reside em extrair percepções valiosas de conjuntos de dados complexos. 
 
 Minha experiencia de 9 anos na Americanas SA, com análise de negócios, me permitiu trabalhar com grandes volumes de dados e problemas complexos. Atuei em áreas como RH, Fiscal, Meios de Pagamentos, Conciliação Bancária e demais áreas financeiras.
@@ -25,8 +25,7 @@ Minha aptidão para transformar dados brutos em informações acionáveis, combi
 - **Non-Relational Database:** MongoDB
 
 ### ETL:
-- **Pentaho**
-- **Metabase**
+- **Python**: Pandas, PySpark, duckdb
 
 ### Data Viz:
 - **PowerBI**
@@ -46,29 +45,22 @@ Minha aptidão para transformar dados brutos em informações acionáveis, combi
 
 ## 📚 Certificações
 
--  **Certificado Data Analytics - Google.**
-- **Certificado Arquiteto de Virtualização de Dados – Denodo.**
-- **Certificado de Cloudera Technical Expert Accreditation.**
-- **Certificado de Cloudera Technical Specialist Accreditation.**
-- **Certificado de Cloudera Technical Professional.**
-- **Certificado H2O AutoML Platform Training Certificate.** 
+- **SQL para Análise de Dados: do básico ao avançado**
+- **Certified Scrum Product Owner® - Scrum Alliance**
+- **Microsoft Power BI – Udemy**
+- **DBA Oracle – INFNET**
+- **Oracle PL/SQL – Oracle University**
 
 ## 📚 Faculdade
 
--  **Bacharelado em Ciência de Dados e Inteligência Artificial - UniDomBosco** - em andamento.
+-  **Bacharelado em Ciência da Computação - UFRJ (2010)**
 
-## ⭐️ Comunidade
-
-- Voluntária PyLadies Fortaleza/CE.
-- Voluntária GDG e WTM Fortaleza (Comunidades Google).
-  
-Principais atividades nas comunidades, é organização dos eventos, mentoria e palestras.
 
 ## ⭐️ Experiências Profissionais
 
-- **Diamond Solutions** - atuando principalmente como Arquiteta de Soluções densenvolvendo projetos de Engenharia e Ciência de Dados (atualmente).
-- **Digital College** - professora de formação do curso de Data Analytics, lecionando as disciplinas de banco de dados, Etl, Python e PowerBi (atualmente).
-- **Konstroi** - atuei como Head People, com foco em consultoria para clientes externos e para os clientes internos, responsável por toda a parte de gestão de pessoas (atuei por 10 anos).
+- **Americanas SA** - atuando principalmente como Arquiteta de Soluções densenvolvendo projetos de Engenharia e Ciência de Dados (atualmente).
+- **B2W Digital** - professora de formação do curso de Data Analytics, lecionando as disciplinas de banco de dados, Etl, Python e PowerBi (atualmente).
+- **Accenture** - atuei como Head People, com foco em consultoria para clientes externos e para os clientes internos, responsável por toda a parte de gestão de pessoas (atuei por 10 anos).
  
 
 ## 🚀 Status
