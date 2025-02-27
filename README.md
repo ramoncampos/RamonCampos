@@ -6,9 +6,9 @@
 <img align="right" src="https://img.freepik.com/vetores-premium/conceito-plano-de-vetor-de-carreira-de-analista-de-dados-ilustracao-local_151150-13220.jpg?w=1380" width='200'/> 
 
 Sou **Ramon Campos**, atuo na área de Análise de Dados, com domínio nas linguagens SQL e Python.
-Com um embasamento técnico e habilidades em ferramentas de análise de dados, meu compromisso reside em extrair percepções valiosas de conjuntos de dados complexos. 
+Com um embasamento técnico, de negócios, e habilidades em ferramentas de análise de dados, meu compromisso reside em extrair percepções valiosas de conjuntos de dados complexos. 
 
-Minha experiencia de 9 anos na Americanas me permitiu trabalhar com grandes volumes de dados e problemas complexos. Atuei em áreas como RH, Fiscal, Meios de Pagamentos, Conciliação Bancária e demais áreas financeiras.
+Minha experiencia de 9 anos na Americanas SA, com análise de negócios, me permitiu trabalhar com grandes volumes de dados e problemas complexos. Atuei em áreas como RH, Fiscal, Meios de Pagamentos, Conciliação Bancária e demais áreas financeiras.
 Minha aptidão para transformar dados brutos em informações acionáveis, combinada meu conhecimento em análise de dados, capacita a tomada de decisões informadas e estratégicas
 
 ## 👩🏽‍💻 Experiências (Ferramentas/Linguagens)
