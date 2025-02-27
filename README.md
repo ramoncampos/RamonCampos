@@ -41,7 +41,13 @@ Minha aptidão para transformar dados brutos em informações acionáveis, combi
 - **Github**
 - **Bitbucket**
 
-<p>Combinando minha paixão por dados, conhecimentos intermediários em programação e habilidades em Machine Learning, estou pronta para enfrentar desafios analíticos complexos e fornecer soluções impactantes. Estou entusiasmada em contribuir para o sucesso por meio do poder dos dados e da inteligência artificial.</p>
+<p>Combinando minha paixão por dados, conhecimentos em programação e habilidades em análise de negócio, estou pronto para enfrentar desafios analíticos complexos e fornecer soluções impactantes.</p>
+
+## ⭐️ Experiências Profissionais
+
+- **Americanas SA** - atuando principalmente como Arquiteto de Soluções densenvolvendo projetos de Engenharia e Ciência de Dados (atualmente).
+- **B2W Digital** - professora de formação do curso de Data Analytics, lecionando as disciplinas de banco de dados, Etl, Python e PowerBi (atualmente).
+- **Accenture** - atuei como Head People, com foco em consultoria para clientes externos e para os clientes internos, responsável por toda a parte de gestão de pessoas (atuei por 10 anos).
 
 ## 📚 Certificações
 
@@ -54,13 +60,6 @@ Minha aptidão para transformar dados brutos em informações acionáveis, combi
 ## 📚 Faculdade
 
 -  **Bacharelado em Ciência da Computação - UFRJ (2010)**
-
-
-## ⭐️ Experiências Profissionais
-
-- **Americanas SA** - atuando principalmente como Arquiteta de Soluções densenvolvendo projetos de Engenharia e Ciência de Dados (atualmente).
-- **B2W Digital** - professora de formação do curso de Data Analytics, lecionando as disciplinas de banco de dados, Etl, Python e PowerBi (atualmente).
-- **Accenture** - atuei como Head People, com foco em consultoria para clientes externos e para os clientes internos, responsável por toda a parte de gestão de pessoas (atuei por 10 anos).
  
 ## 📚 Skills
 
