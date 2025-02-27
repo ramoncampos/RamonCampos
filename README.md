@@ -3,9 +3,9 @@
 
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramoncampos/)
 
-<img align="right" src="https://img.freepik.com/vetores-premium/conceito-plano-de-vetor-de-carreira-de-analista-de-dados-ilustracao-local_151150-13220.jpg?w=1380" width='200'/> 
+<img align="right" src="[https://img.freepik.com/vetores-premium/conceito-plano-de-vetor-de-carreira-de-analista-de-dados-ilustracao-local_151150-13220.jpg?w=1380](https://img.freepik.com/free-photo/office-workers-using-finance-graphs_23-2150408661.jpg?t=st=1740700378~exp=1740703978~hmac=f73b84c10e2fd9146ebf5a0e742100b892188885a71c43659984ddb488af3600&w=1060)" width='200'/> 
 
-Sou **Ramon Campos**, atuo como Analista de Dados, com domínio nas linguagens SQL e Python, além de Power BI e ETL.
+Sou **Ramon Campos**, atuo como Analista de Dados com domínio nas linguagens SQL e Python, além de Power BI e ETL.
 Com um embasamento técnico, de negócios, e habilidades em ferramentas de análise de dados, meu compromisso reside em extrair percepções valiosas de conjuntos de dados complexos. 
 
 Minha experiencia de 9 anos na Americanas SA, com análise de negócios, me permitiu trabalhar com grandes volumes de dados e problemas complexos. Atuei em áreas como RH, Fiscal, Meios de Pagamentos, Conciliação Bancária e demais áreas financeiras.
@@ -21,7 +21,7 @@ Minha aptidão para transformar dados brutos em informações acionáveis, combi
 - **Google Cloud (GCP)** - BigQuery, Dataflow, Cloud SQL, Dataproc
 
 ### Database:
-- **Relational Database:** SQL Server, PostgreSQL, ORacle
+- **Relational Database:** SQL Server, PostgreSQL, Oracle
 - **Non-Relational Database:** MongoDB
 
 ### ETL:
