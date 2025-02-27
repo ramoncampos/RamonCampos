@@ -10,8 +10,6 @@ Com um embasamento técnico e habilidades intermediárias em ferramentas de aná
 
 Minha aptidão para transformar dados brutos em informações acionáveis, combinada meu conhecimento em Python e Machine Learning, capacita a tomada de decisões informadas e estratégicas
 
-Também sou criadora de conteúdo sobre o Universo da área de Dados, no Linkedin.
-
 ## 👩🏽‍💻 Experiências (Ferramentas/Linguagens)
 
 ### BackEnd:
