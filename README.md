@@ -5,7 +5,7 @@
 
 <img align="right" src="https://img.freepik.com/vetores-premium/conceito-plano-de-vetor-de-carreira-de-analista-de-dados-ilustracao-local_151150-13220.jpg?w=1380" width='200'/> 
 
-Sou **Ramon Campos**, sou um Data Analytics atuando na área de Análise de Dados, com dominpio nas linguagens SQL e Python.
+Sou **Ramon Campos**, sou um Data Analytics atuando na área de Análise de Dados, com domínio nas linguagens SQL e Python.
 Com um embasamento técnico e habilidades intermediárias em ferramentas de análise de dados, meu compromisso reside em extrair percepções valiosas de conjuntos de dados complexos. 
 
 Minha aptidão para transformar dados brutos em informações acionáveis, combinada meu conhecimento em Python e Machine Learning, capacita a tomada de decisões informadas e estratégicas
