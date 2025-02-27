@@ -3,7 +3,7 @@
 
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramoncampos/)
 
-<img align="right" src="[https://img.freepik.com/vetores-premium/conceito-plano-de-vetor-de-carreira-de-analista-de-dados-ilustracao-local_151150-13220.jpg?w=1380]" width='200'/> 
+<img align="right" src="https://img.freepik.com/vetores-premium/conceito-plano-de-vetor-de-carreira-de-analista-de-dados-ilustracao-local_151150-13220.jpg?w=1380" width='200'/> 
 
 Sou **Ramon Campos**, atuo como Analista de Dados com domínio nas linguagens SQL e Python, além de Power BI e ETL.
 Com um embasamento técnico, de negócios, e habilidades em ferramentas de análise de dados, meu compromisso reside em extrair percepções valiosas de conjuntos de dados complexos. 
