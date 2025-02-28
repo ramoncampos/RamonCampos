@@ -3,7 +3,7 @@
 
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramoncampos/)
 
-<img align="right" src="https://img.freepik.com/free-photo/office-workers-using-finance-graphs_23-2150408661.jpg?t=st=1740700378~exp=1740703978~hmac=f73b84c10e2fd9146ebf5a0e742100b892188885a71c43659984ddb488af3600&w=1060" width='200'/> 
+<img align="right" src="https://img.freepik.com/free-photo/office-workers-using-finance-graphs_23-2150408661.jpg?t=st=1740700378~exp=1740703978~hmac=f73b84c10e2fd9146ebf5a0e742100b892188885a71c43659984ddb488af3600&w=1060" width='300'/> 
 
 
 Sou **Ramon Campos**, atuo como Analista de Dados com domínio nas linguagens SQL e Python, além de Power BI e ETL.
