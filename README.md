@@ -46,17 +46,18 @@ Minha aptidão para transformar dados brutos em informações acionáveis, combi
 
 ## ⭐️ Experiências Profissionais
 
-- **Americanas SA** - atuando principalmente como Arquiteto de Soluções densenvolvendo projetos de Engenharia e Ciência de Dados (atualmente).
-- **B2W Digital** - professora de formação do curso de Data Analytics, lecionando as disciplinas de banco de dados, Etl, Python e PowerBi (atualmente).
-- **Accenture** - atuei como Head People, com foco em consultoria para clientes externos e para os clientes internos, responsável por toda a parte de gestão de pessoas (atuei por 10 anos).
+- **Manuia Emporium** - fundado de loja online de produtos naturais ayurvédicos. Responsável pela produção e desempenho de conteúdo, gestão de tráfego pago, análise de indicadores como CPM, CTR CPA E ROAS. Responsável pela precificação, criação das páginas dos produtos e logística.
+- **Americanas SA** - responsável por soluções como automações com SQL e Python, dashboards em Power BI, para otimizar processos de análises, monitoramento e identificação de inconsistências financeiras.
+- **B2W Digital** - responsável por criar uma loja online Americanas para Seguros e Serviços. Também criei diversas soluções de dados para Meios de Pagamento e Conciliação Financeira, recuperando mais de R$25M em débitos indevidos, otimizando o tempo do processo de estornos e reduzindo o tempo para identificação de problemas na Conciliação.
+- **Accenture** - atuei como PMO e Analista de Processos, responsável pela gestão de projetos internos de um grande cliente do segmento de Telecom. Também atuei nos mapeamentos dos processos, fusão com a Intelig Telecom, reestruturação organizacional e eficiência operacional.
 
 ## 📚 Certificações
 
 - **SQL para Análise de Dados: do básico ao avançado**
-- **Certified Scrum Product Owner® - Scrum Alliance**
-- **Microsoft Power BI – Udemy**
+- **Formação Microsoft Power BI Profissional – Udemy**
 - **DBA Oracle – INFNET**
 - **Oracle PL/SQL – Oracle University**
+- **Certified Scrum Product Owner® - Scrum Alliance**
 
 ## 📚 Faculdade
 
@@ -66,6 +67,6 @@ Minha aptidão para transformar dados brutos em informações acionáveis, combi
 
 <div align="center">
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-pink?style=for-the-badge&logo=sql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-pink?style=for-the-badge&logo=sql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
