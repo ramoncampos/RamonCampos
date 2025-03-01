@@ -1,4 +1,4 @@
-<h2> Olá!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
+<h2> Olá!! </h2>
 
 
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramoncampos/)
@@ -6,11 +6,9 @@
 <img align="right" src="https://img.freepik.com/free-photo/office-workers-using-finance-graphs_23-2150408661.jpg?t=st=1740700378~exp=1740703978~hmac=f73b84c10e2fd9146ebf5a0e742100b892188885a71c43659984ddb488af3600&w=1060" width='300'/> 
 
 
-Sou **Ramon Campos**, atuo como Analista de Dados com domínio nas linguagens SQL e Python, além de Power BI e ETL.
-Com um embasamento técnico, de negócios, e habilidades em ferramentas de análise de dados, meu compromisso reside em extrair percepções valiosas de conjuntos de dados complexos. 
+Sou Ramon Campos, Analista de Dados com experiência em SQL, Python, Power BI e ETL. Minha especialidade é transformar grandes volumes de dados em insights estratégicos para a tomada de decisão.
 
-Minha experiencia de 9 anos na Americanas SA, com análise de negócios, me permitiu trabalhar com grandes volumes de dados e problemas complexos. Atuei em áreas como RH, Fiscal, Meios de Pagamentos, Conciliação Bancária e demais áreas financeiras.
-Minha aptidão para transformar dados brutos em informações acionáveis, combinada meu conhecimento em análise de dados, capacita a tomada de decisões informadas e estratégicas
+Atuei por 9 anos na Americanas S.A., analisando dados em áreas como RH, Fiscal, Meios de Pagamento, Conciliação Bancária e Finanças. Minha vivência em negócios e habilidades técnicas me permitem extrair valor de dados complexos, gerando soluções eficazes para variados desafios.
 
 ## 👩🏽‍💻 Experiências (Ferramentas/Linguagens)
 
