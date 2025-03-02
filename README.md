@@ -26,7 +26,7 @@
 
 ## ⭐️ Experiências Profissionais
 
-- **Manuia Emporium** - fundado de loja online de produtos naturais ayurvédicos. Responsável pela produção e desempenho de conteúdo, gestão de tráfego pago, análise de indicadores como CPM, CTR CPA E ROAS. Responsável pela precificação, criação das páginas dos produtos e logística.
+- **Manuia Emporium** - fundador do e-commerce de produtos naturais ayurvédicos. Responsável pela produção e desempenho de conteúdo, gestão de tráfego pago, análise de indicadores como CPM, CTR CPA E ROAS. Responsável pela precificação, criação das páginas dos produtos e logística.
 - **Americanas SA** - responsável por soluções como automações com SQL e Python, dashboards em Power BI, para otimizar processos de análises, monitoramento e identificação de inconsistências financeiras.
 - **B2W Digital** - responsável por criar uma loja online Americanas para Seguros e Serviços. Também criei diversas soluções de dados para Meios de Pagamento e Conciliação Financeira, recuperando mais de R$25M em débitos indevidos, otimizando o tempo do processo de estornos e reduzindo o tempo para identificação de problemas na Conciliação.
 - **Accenture** - atuei como PMO e Analista de Processos, responsável pela gestão de projetos internos de um grande cliente do segmento de Telecom. Também atuei nos mapeamentos dos processos, fusão com a Intelig Telecom, reestruturação organizacional e eficiência operacional.
