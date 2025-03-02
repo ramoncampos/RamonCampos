@@ -4,21 +4,16 @@
 
 <img align="right" src="https://img.freepik.com/free-photo/office-workers-using-finance-graphs_23-2150408661.jpg?t=st=1740700378~exp=1740703978~hmac=f73b84c10e2fd9146ebf5a0e742100b892188885a71c43659984ddb488af3600&w=1060" width='300'/> 
 
-📊 Analista de Dados, com 9 anos de experiência na Americanas S.A. como analista de negócios, onde atuei analisando dados em diversas áreas, incluindo RH, Fiscal, Meios de Pagamento, Conciliação Bancária e Finanças.
-
-📈 Na minha transição para análise de dados, usei minha combinação de expertise técnica e visão de negócios permitindo transformar dados complexos em insights estratégicos e soluções eficazes. 
-
-🥋Minha especialidade é transformar grandes volumes de dados em insights estratégicos para a tomada de decisão.
-
-⚙️ Possuo habilidades em tratamento e preparação de dados, utilizando linguagens como Python, SQL e Power Query
-
-⚙️As principais ferramentas que utilizo são GCP, Oracle, Power BI, Git e Excel.
+- 📊 Analista de Dados, com 9 anos de experiência na Americanas S.A. como analista de negócios, onde atuei analisando dados em diversas áreas, incluindo RH, Fiscal, Meios de Pagamento, Conciliação Bancária e Finanças.
+- 📈 Na minha transição para análise de dados, usei minha combinação de expertise técnica e visão de negócios permitindo transformar dados complexos em insights estratégicos e soluções eficazes. 
+- 🥋Minha especialidade é transformar grandes volumes de dados em insights estratégicos para a tomada de decisão.
+- ⚙️ Possuo habilidades em tratamento e preparação de dados, utilizando linguagens como Python, SQL e Power Query
+- ⚙️As principais ferramentas que utilizo são GCP, Oracle, Power BI, Git e Excel.
 
 ###
-
 <h4 align="left">Em breve você encontrará meu portfólio aqui:</h3>
-
 ###
+
 
 ## 📚 Skills
 
