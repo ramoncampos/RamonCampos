@@ -10,7 +10,9 @@
 - ⚙️ Possuo habilidades em tratamento e preparação de dados, utilizando linguagens como Python, SQL e Power Query
 - ⚙️ As principais ferramentas que utilizo são GCP, Oracle, Power BI, Git e Excel.
 
-#### 💻 Meu portfólio aqui:
+
+### 💻 Meu portfólio aqui:
+
 
 ## 📚 Certificações
 - **SQL para Análise de Dados: do básico ao avançado – Udemy**
