@@ -37,4 +37,4 @@
 - **B2W Digital** - criei  uma loja online na Americanas.com para Seguros e Serviços. Também criei diversas soluções de dados para Meios de Pagamento e Conciliação Financeira, recuperando mais de R$25M em débitos indevidos, otimizando o tempo do processo de estornos e reduzindo o tempo para identificação de problemas na Conciliação.
 - **Accenture** - atuei como PMO e Analista de Processos, responsável pela gestão de projetos internos de um grande cliente do segmento de Telecom. Também atuei nos mapeamentos dos processos, fusão com a Intelig Telecom, reestruturação organizacional e eficiência operacional.
 
-[🔼 Topo](#-meu-portf%C3%B3lio-aqui)
+[🔼 Topo](#ol%C3%A1-eu-sou-ramon-campos-)
