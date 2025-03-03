@@ -10,7 +10,7 @@
 - ⚙️ Possuo habilidades em tratamento e preparação de dados, utilizando linguagens como Python, SQL e Power Query
 - ⚙️ As principais ferramentas que utilizo são GCP, Oracle, Power BI, Git e Excel.
 
-<h4 align="left">Em breve você encontrará meu portfólio aqui:</h4>
+#### 💻 Meu portfólio aqui:
 
 ## 📚 Certificações
 - **SQL para Análise de Dados: do básico ao avançado – Udemy**
@@ -36,3 +36,5 @@
 - **Americanas SA** - criei soluções como automações com SQL e Python, dashboards em Power BI, para otimizar processos de análises, monitoramento e identificação de inconsistências financeiras.
 - **B2W Digital** - criei  uma loja online na Americanas.com para Seguros e Serviços. Também criei diversas soluções de dados para Meios de Pagamento e Conciliação Financeira, recuperando mais de R$25M em débitos indevidos, otimizando o tempo do processo de estornos e reduzindo o tempo para identificação de problemas na Conciliação.
 - **Accenture** - atuei como PMO e Analista de Processos, responsável pela gestão de projetos internos de um grande cliente do segmento de Telecom. Também atuei nos mapeamentos dos processos, fusão com a Intelig Telecom, reestruturação organizacional e eficiência operacional.
+
+[🔼 Topo](#-meu-portf%C3%B3lio-aqui)
