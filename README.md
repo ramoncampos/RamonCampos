@@ -6,9 +6,9 @@
 
 - 📊 Analista de Dados, com 9 anos de experiência na Americanas S.A. como analista de negócios, onde atuei analisando dados em diversas áreas, incluindo RH, Fiscal, Meios de Pagamento, Conciliação Bancária e Finanças.
 - 📈 Na minha transição para análise de dados, usei minha combinação de expertise técnica e visão de negócios permitindo transformar dados complexos em insights estratégicos e soluções eficazes. 
-- 🥋Minha especialidade é transformar grandes volumes de dados em insights estratégicos para a tomada de decisão.
+- 🥋 Minha especialidade é transformar grandes volumes de dados em insights estratégicos para a tomada de decisão.
 - ⚙️ Possuo habilidades em tratamento e preparação de dados, utilizando linguagens como Python, SQL e Power Query
-- ⚙️As principais ferramentas que utilizo são GCP, Oracle, Power BI, Git e Excel.
+- ⚙️ As principais ferramentas que utilizo são GCP, Oracle, Power BI, Git e Excel.
 
 <h4 align="left">Em breve você encontrará meu portfólio aqui:</h4>
 
