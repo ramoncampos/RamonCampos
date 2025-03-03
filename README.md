@@ -10,11 +10,17 @@
 - ⚙️ Possuo habilidades em tratamento e preparação de dados, utilizando linguagens como Python, SQL e Power Query
 - ⚙️As principais ferramentas que utilizo são GCP, Oracle, Power BI, Git e Excel.
 
-###
 <h4 align="left">Em breve você encontrará meu portfólio aqui:</h3>
 
-###
+## 📚 Certificações
+- **SQL para Análise de Dados: do básico ao avançado – Udemy**
+- **Formação Microsoft Power BI Profissional – Udemy**
+- **DBA Oracle – INFNET**
+- **Oracle PL/SQL – Oracle University**
+- **Certified Scrum Product Owner® - Scrum Alliance**
 
+## 📚 Formação
+-  **Bacharelado em Ciência da Computação - UFRJ (2010)**
 
 ## 📚 Skills
 
@@ -31,17 +37,7 @@
 - **B2W Digital** - responsável por criar uma loja online Americanas para Seguros e Serviços. Também criei diversas soluções de dados para Meios de Pagamento e Conciliação Financeira, recuperando mais de R$25M em débitos indevidos, otimizando o tempo do processo de estornos e reduzindo o tempo para identificação de problemas na Conciliação.
 - **Accenture** - atuei como PMO e Analista de Processos, responsável pela gestão de projetos internos de um grande cliente do segmento de Telecom. Também atuei nos mapeamentos dos processos, fusão com a Intelig Telecom, reestruturação organizacional e eficiência operacional.
 
-## 📚 Certificações
 
-- **SQL para Análise de Dados: do básico ao avançado – Udemy**
-- **Formação Microsoft Power BI Profissional – Udemy**
-- **DBA Oracle – INFNET**
-- **Oracle PL/SQL – Oracle University**
-- **Certified Scrum Product Owner® - Scrum Alliance**
-
-## 📚 Formação
-
--  **Bacharelado em Ciência da Computação - UFRJ (2010)**
  
 
 ## 👩🏽‍💻 Experiências (Ferramentas/Linguagens)
