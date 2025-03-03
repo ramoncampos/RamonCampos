@@ -24,7 +24,7 @@
 ## 📚 Formação
 -  **Bacharelado em Ciência da Computação - UFRJ (2010)**
 
-## 📚 Habilidades
+## 👩‍💻 Habilidades
 
 <div align="center">
 
