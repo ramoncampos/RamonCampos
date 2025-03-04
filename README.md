@@ -11,7 +11,7 @@
 - ⚙️ As principais ferramentas que utilizo são GCP, Oracle, Power BI, Git e Excel.
 
 
-### 💻 Meu portfólio aqui:
+### 💻 [Meu portfólio aqui](https://github.com/ramoncampos/analise-dados-portfolio)
 
 
 ## 📚 Certificações
